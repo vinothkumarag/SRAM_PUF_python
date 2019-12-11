@@ -1,0 +1,29 @@
+Intra Hamming distance between
+stellaris1_26183504.txt vs stellaris1_26183504.txt	:	0.00 %	Both files are identical
+stellaris1_26183504.txt vs stellaris1_26184022.txt	:	5.02 %
+stellaris1_26184022.txt vs stellaris1_26183504.txt	:	5.02 %
+stellaris1_26184022.txt vs stellaris1_26184022.txt	:	0.00 %	Both files are identical
+stellaris2_26184341.txt vs stellaris2_26184341.txt	:	0.00 %	Both files are identical
+stellaris2_26184341.txt vs stellaris2_26184508.txt	:	5.10 %
+stellaris2_26184508.txt vs stellaris2_26184341.txt	:	5.10 %
+stellaris2_26184508.txt vs stellaris2_26184508.txt	:	0.00 %	Both files are identical
+tiva_new1_26181658.txt vs tiva_new1_26181658.txt	:	0.00 %	Both files are identical
+tiva_new1_26181658.txt vs tiva_new1_26181835.txt	:	4.79 %
+tiva_new1_26181835.txt vs tiva_new1_26181658.txt	:	4.79 %
+tiva_new1_26181835.txt vs tiva_new1_26181835.txt	:	0.00 %	Both files are identical
+tiva_new2_26182335.txt vs tiva_new2_26182335.txt	:	0.00 %	Both files are identical
+tiva_new2_26182335.txt vs tiva_new2_26182650.txt	:	5.07 %
+tiva_new2_26182650.txt vs tiva_new2_26182335.txt	:	5.07 %
+tiva_new2_26182650.txt vs tiva_new2_26182650.txt	:	0.00 %	Both files are identical
+tiva_old1_26184727.txt vs tiva_old1_26184727.txt	:	0.00 %	Both files are identical
+tiva_old1_26184727.txt vs tiva_old1_26184848.txt	:	5.04 %
+tiva_old1_26184848.txt vs tiva_old1_26184727.txt	:	5.04 %
+tiva_old1_26184848.txt vs tiva_old1_26184848.txt	:	0.00 %	Both files are identical
+tiva_old2_26185040.txt vs tiva_old2_26185040.txt	:	0.00 %	Both files are identical
+tiva_old2_26185040.txt vs tiva_old2_26185450.txt	:	5.57 %
+tiva_old2_26185450.txt vs tiva_old2_26185040.txt	:	5.57 %
+tiva_old2_26185450.txt vs tiva_old2_26185450.txt	:	0.00 %	Both files are identical
+tiva_original_26181245.txt vs tiva_original_26181245.txt	:	0.00 %	Both files are identical
+tiva_original_26181245.txt vs tiva_original_26181408.txt	:	5.40 %
+tiva_original_26181408.txt vs tiva_original_26181245.txt	:	5.40 %
+tiva_original_26181408.txt vs tiva_original_26181408.txt	:	0.00 %	Both files are identical

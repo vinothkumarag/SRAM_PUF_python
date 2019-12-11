@@ -1,0 +1,42 @@
+Hamming weight of stellaris1_26183504.txt 	: 44.57 %
+Shannon entropy of stellaris1_26183504.txt 	: 0.991477 
+
+Hamming weight of stellaris1_26184022.txt 	: 44.49 %
+Shannon entropy of stellaris1_26184022.txt 	: 0.991221 
+
+Hamming weight of stellaris2_26184341.txt 	: 50.81 %
+Shannon entropy of stellaris2_26184341.txt 	: 0.999810 
+
+Hamming weight of stellaris2_26184508.txt 	: 50.77 %
+Shannon entropy of stellaris2_26184508.txt 	: 0.999831 
+
+Hamming weight of tiva_new1_26181658.txt 	: 50.01 %
+Shannon entropy of tiva_new1_26181658.txt 	: 1.000000 
+
+Hamming weight of tiva_new1_26181835.txt 	: 50.17 %
+Shannon entropy of tiva_new1_26181835.txt 	: 0.999991 
+
+Hamming weight of tiva_new2_26182335.txt 	: 49.60 %
+Shannon entropy of tiva_new2_26182335.txt 	: 0.999953 
+
+Hamming weight of tiva_new2_26182650.txt 	: 49.44 %
+Shannon entropy of tiva_new2_26182650.txt 	: 0.999910 
+
+Hamming weight of tiva_old1_26184727.txt 	: 55.12 %
+Shannon entropy of tiva_old1_26184727.txt 	: 0.992408 
+
+Hamming weight of tiva_old1_26184848.txt 	: 55.12 %
+Shannon entropy of tiva_old1_26184848.txt 	: 0.992408 
+
+Hamming weight of tiva_old2_26185040.txt 	: 52.92 %
+Shannon entropy of tiva_old2_26185040.txt 	: 0.997540 
+
+Hamming weight of tiva_old2_26185450.txt 	: 52.56 %
+Shannon entropy of tiva_old2_26185450.txt 	: 0.998105 
+
+Hamming weight of tiva_original_26181245.txt 	: 45.95 %
+Shannon entropy of tiva_original_26181245.txt 	: 0.995269 
+
+Hamming weight of tiva_original_26181408.txt 	: 46.03 %
+Shannon entropy of tiva_original_26181408.txt 	: 0.995456 
+
